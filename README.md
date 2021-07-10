@@ -1,4 +1,6 @@
 # Content-Based-Movie-Recommender-System-with-sentiment-analysis-using-AJAX
+![image](https://user-images.githubusercontent.com/51706688/125175496-31db8900-e1ea-11eb-8bb7-0a10123adabd.png)
+
 
 Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
 
